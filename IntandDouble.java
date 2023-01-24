@@ -4,7 +4,6 @@ public class IntandDouble {
         double x;
 
         v = 10;
-
         x = 10.0;
 
         System.out.println("Original value of v: " + v);
