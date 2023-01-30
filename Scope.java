@@ -9,7 +9,7 @@ public class Scope {
             x = y * 2;
         }
         // y is out of scope
-        y = 100; 
+        //y = 100; 
 
         System.out.println("x is " + x);
     }
