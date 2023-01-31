@@ -11,6 +11,7 @@ class ForLoop {
         );
 
         // count is the loop control variable.
+        // (initialization; condition; iteration)
         for (int count = countStart; count <= countEnd; count++) {
             System.out.println(count);
         }
