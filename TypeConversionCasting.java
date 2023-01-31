@@ -1,4 +1,4 @@
-public class TypeConversionCasting {
+class TypeConversionCasting {
     public static void main(String[] args) {
         long l_value;
         double d_value;

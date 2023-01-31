@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReadString {
+class ReadString {
     public static void main(String[] args) {
         String line;
 

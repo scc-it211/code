@@ -1,4 +1,4 @@
-public class ForLoop {
+class ForLoop {
     public static void main(String[] args) {
         // count
         int countStart = 0;

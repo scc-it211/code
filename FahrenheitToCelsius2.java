@@ -1,4 +1,4 @@
-public class FahrenheitToCelsius2 {
+class FahrenheitToCelsius2 {
     public static void main(String[] args) {
         double fahrenheitDegrees;
         double celsiusDegrees;

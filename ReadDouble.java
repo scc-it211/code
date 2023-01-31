@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReadDouble {
+class ReadDouble {
     public static void main(String[] args) {
         Double value;
 

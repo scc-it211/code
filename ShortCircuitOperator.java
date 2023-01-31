@@ -1,4 +1,4 @@
-public class ShortCircuitOperator {
+class ShortCircuitOperator {
     public static void main(String[] args) {
         int n, d;
 

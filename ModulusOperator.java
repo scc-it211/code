@@ -1,4 +1,4 @@
-public class ModulusOperator {
+class ModulusOperator {
     public static void main(String[] args) {
         int iresult, irem;
         double dresult, drem;

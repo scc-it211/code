@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ReadBoolean {
+class ReadBoolean {
     public static void main(String[] args) {
         Boolean bool;
 

@@ -1,4 +1,4 @@
-public class IntandDouble {
+class IntandDouble {
     public static void main(String[] args) {
         int v;
         double x;
