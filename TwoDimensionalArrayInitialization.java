@@ -1,4 +1,4 @@
-class TwoDimensionalArray {
+class TwoDimensionalArrayInitialization {
     public static void main(String[] args) {
         int[][] table = {
             {1, 2, 3, 4},
