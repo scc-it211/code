@@ -1,6 +1,6 @@
 class A {
     int x; // default access
-    private int y;
+    //private int y;
     void setXY(int a, int b) {
         x = a;
         y = b;
@@ -10,7 +10,7 @@ class B extends A {
     int total;
     void sum() {
         // y is not accessible
-        total = x + y;
+        //total = x + y;
     }
 }
 
