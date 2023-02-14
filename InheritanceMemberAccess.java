@@ -3,7 +3,7 @@ class A {
     //private int y;
     void setXY(int a, int b) {
         x = a;
-        y = b;
+        //y = b;
     }
 }
 class B extends A {
