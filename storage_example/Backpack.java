@@ -1,19 +1,18 @@
 package storage_example;
 
 class Backpack implements Storage {
-    public void addItem() {
-        // not implemented
+    private String pockets[] = new String[3];
+
+    public void addItem(String itemName) {
+
     }
-    public void removeItem() {
-        // not implemented
+    public void removeItem(String itemName) {
 
     }
     public void printItems() {
-        // not implemented
 
     }
     public int getNumItems() {
-        // not implemented
-        return 1;
+        return -1;
     }
 }
